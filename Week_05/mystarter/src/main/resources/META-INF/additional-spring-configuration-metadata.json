@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "name": "mystarter.student.name",
+      "type": "java.lang.String",
+      "description": "Define the name of the student.",
+      "defaultValue": null
+    },
+    {
+      "name": "mystarter.student.id",
+      "type": "java.lang.String",
+      "description": "Define the student's id of the student.",
+      "defaultValue": null
+    },
+    {
+      "name": "mystarter.student.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the current configuration.",
+      "defaultValue": true
+    }
+  ]
+}
